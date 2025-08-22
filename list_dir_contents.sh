@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 DIRECTORY="$1"
 RECURSIVE=false
